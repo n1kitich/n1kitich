@@ -1,7 +1,10 @@
 ![Headers](https://github.com/n1kitich/n1kitich/blob/main/assets/header.png)
 
-About me
+## I`m a beginner Software Engineer and IOS developer
 
-Languages and Tools
+### Languages and Tools
+![Swift](https://img.shields.io/badge/-Swift-202020?style=for-the-badge&logo=swift) ![Objective-C](https://img.shields.io/badge/-Objective--C-202020?style=for-the-badge&logo=c&logoColor=19A2EC)
 
-Follow me
+### Follow me
+[![Instagram](https://img.shields.io/badge/-Instagram-202020?style=for-the-badge&logo=Instagram)](https://www.instagram.com/n1kitich)
+[![Telegram](https://img.shields.io/badge/-Telegram-202020?style=for-the-badge&logo=Telegram)](https://t.me/n1kitich)
