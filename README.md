@@ -15,14 +15,10 @@
 <br/>
 [<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>][git]
 [<img align="left" alt="XCode" width="36px" src="https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/ec/70/a6/ec70a6ff-fbbb-f924-0b05-cfa0028e3269/Xcode-85-220-0-4-2x.png/1200x630bb.png"/>][xcode]
-<br/>
-<br/>
 [<img align="left" alt="Sketch" width="32px" src="https://raw.githubusercontent.com/github/explore/a5995564b5ff71c41da080abc49f1ba4132127c1/topics/sketch/sketch.png"/>][sketch]
-[<img align="left" alt="SpriteKit" width="32px" src="https://miro.medium.com/max/256/1*s2f6Vj9hmiP7d_3pomBFmA@2x.png"/>][spritekit]
 <br/>
 <br/>
 
----
 ### Follow Me
 [![Instagram](https://img.shields.io/badge/-Instagram-202020?style=for-the-badge&logo=Instagram)](https://www.instagram.com/n1kitich)
 [![Telegram](https://img.shields.io/badge/-Telegram-202020?style=for-the-badge&logo=Telegram)](https://t.me/n1kitich)
