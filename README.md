@@ -22,6 +22,7 @@
 <br/>
 <br/>
 
+---
 ### Follow Me
 [![Instagram](https://img.shields.io/badge/-Instagram-202020?style=for-the-badge&logo=Instagram)](https://www.instagram.com/n1kitich)
 [![Telegram](https://img.shields.io/badge/-Telegram-202020?style=for-the-badge&logo=Telegram)](https://t.me/n1kitich)
