@@ -5,7 +5,7 @@
 ### Languages and Tools
 
 [<img align="left" alt="Swift" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"/>][swift]
-[<img align="left" alt="Objective-C" width="32px" src="https://lh3.googleusercontent.com/proxy/skfhzWMVvAWjOeSOAhNbf9yH4Gduj2Khui-3_aHfOGrnzFV6T5bpYCcr-3hKe9Taxr8GWV6i2yEK4EFPUU_D6YynfAQG81k4ZLzec9TFrejU87pNv3fX"/>  ][objective-c]
+[<img align="left" alt="Objective-C" width="32px" src="https://www.pinclipart.com/picdir/big/396-3965102_swiftify-saves-thousands-of-work-hours-by-converting.png"/>  ][objective-c]
 <br/>
 <br/>
 [<img align="left" alt="CoreData" width="32px" src="https://habrastorage.org/getpro/habr/post_images/10b/0e6/5ef/10b0e65efd9b395b8e3e3b9f41bdc354.png"/>][coredata]
