@@ -1,6 +1,6 @@
 ![Header](https://github.com/n1kitich/n1kitich/blob/main/assets/header.png)
 
-## I`m a beginner Software Engineer and IOS Developer
+## I`m a Software Engineer and IOS Developer
 
 ### Languages and Tools
 
